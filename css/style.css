@@ -1,0 +1,21 @@
+
+h1 {
+    font-size: 80px;
+    font-weight:bolder;
+
+}
+p{
+    font-size: 35px;
+    font-weight: 400px;
+}
+
+.btn{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+.btn:hover{
+    background-color: green;
+}
